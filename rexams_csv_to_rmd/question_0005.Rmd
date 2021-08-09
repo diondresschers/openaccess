@@ -1,0 +1,29 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## parameters
+a <- sample(1:10, 1) # take from 2 to 10, only 1 number 
+b <- sample(seq(2, 4, 0.1), 1)
+## solution
+res <- a + b
+```
+
+
+Question
+========
+Wat is ${`r a`} + {`r b`}$
+
+Answerlist
+----------
+* ${`r a`} + {`r b`} = {`r res + 0`}$
+* ${`r a`} + {`r b`} = {`r res + 1`}$
+* ${`r a`} + {`r b`} = {`r res + 2`}$
+* ${`r a`} + {`r b`} = {`r res + 3`}$
+
+Solution
+========
+`r res`
+
+Meta-information
+================
+exsolution: 1000
+extype: num
+exname: rcode

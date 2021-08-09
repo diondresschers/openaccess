@@ -1,0 +1,23 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## parameters
+## solution
+```
+
+Question
+========
+Wat is Samson
+
+Answerlist
+----------
+* Een hond
+* Een kuikentje
+
+Solution
+========
+
+Meta-information
+================
+exsolution: 10
+extype: schoice
+exname: samson
+exshuffle: TRUE

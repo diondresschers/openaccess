@@ -1,0 +1,25 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## parameters
+## solution
+```
+
+Question
+========
+Who live in the woods near the willow tree
+
+Answerlist
+----------
+* Sexual harrasment panda
+* Een kuikentje
+* Meneer de uil
+
+Solution
+========
+* Goed sauspark gekeken
+
+Meta-information
+================
+exsolution: 000
+extype: mchoice
+exname: default
+exshuffle: TRUE
