@@ -9,21 +9,18 @@ res <- a + b
 
 Question
 ========
-Wat is ${`r a`} + {`r b`}$ ?
+Wat is ${`r a`} + {`r b`}$
 
 Answerlist
 ----------
-* ${`r a`} + {`r b`} = {`r a + b`}$
-* ${`r a`} + {`r b`} = {`r a + b + 1`}$
-* ${`r a`} + {`r b`} = {`r a + b + 2`}$
-* ${`r a`} + {`r b`} = {`r res + 3`}$
 
 Solution
 ========
-${`r a`} + {`r b`} = {`r a + b`}$
+`r res`
 
 Meta-information
 ================
-exsolution: 1000
-extype: schoice
+exsolution: `r res`
+extype: num
 exname: rcode
+extol: 0.1

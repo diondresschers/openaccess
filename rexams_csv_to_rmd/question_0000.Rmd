@@ -12,17 +12,20 @@ Answerlist
 * Ja, het gaat wel lukken.
 * Nee, natuurlijk niet.
 * Wellicht
+* Natuurlijk gaat het werken!!!
+* Ja natuurlijk goed
 
 Solution
 ========
 * Jaaa
 * Je hebt het fout.
-* Natuurlijk gaat het werken!!!
-* Ja natuurlijk goed
+* Wie weet
+* ja
+* Yeah!
 
 Meta-information
 ================
-exsolution: 00011
+exsolution: 10000
 extype: mchoice
 exname: default
 exshuffle: TRUE
