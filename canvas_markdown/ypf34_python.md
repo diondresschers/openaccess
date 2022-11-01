@@ -14,7 +14,7 @@ You can download Python [2] for Windows, Linux or MacOS, but you can also run in
 * [1] [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [2] [Welcome to Python.org](https://www.python.org/)
 * [3] [JupyterHub](https://edu.nl/rqc9h)
-* 
+
 ---
 
 * Creation Date: 2022-11-01
