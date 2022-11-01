@@ -8,7 +8,7 @@ It is often described as a "batteries included" language due to its comprehensiv
 
 You can download [Python](https://www.python.org/) [1] for Windows, Linux or MacOS, but you can also run in it an browser within the VU with [JupyterHub](https://edu.nl/rqc9h) [2]
 
-# References
+### References
 
 * [0] [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [1] [Welcome to Python.org](https://www.python.org/)
