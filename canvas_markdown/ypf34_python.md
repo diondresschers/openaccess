@@ -1,7 +1,6 @@
 Python is an open source programming language and can be used from programming and data science.
 
-"""
-Python is a high-level, general-purpose programming language. 
+>Python is a high-level, general-purpose programming language. 
 Its design philosophy emphasizes code readability with the use of significant indentation.
 Python is dynamically-typed and garbage-collected. 
 It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. 
