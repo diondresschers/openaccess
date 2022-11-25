@@ -1,5 +1,7 @@
-License: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
-Author: Tim Visser of the Vrije Universiteit Amsterdam
+* Date: 2022-11-25
+* License: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+* Author: Tim Visser of the Vrije Universiteit Amsterdam
+* Version: 2022-11-25T09:57
 
 This uses:
 
