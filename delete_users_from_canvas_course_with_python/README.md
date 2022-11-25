@@ -19,4 +19,4 @@ As and example you can remove al 2022-2023 registered students with a certain pr
 
 Put all those student numbers into the Python list (in the code called called `listOfStudents`).
 
-If the code runs, it takes all students out of Canvas course that are NOT in the list (and thus are not registered for 2022-2023) from de canvas course.
+If the code runs, it takes all students out of the Canvas course that are NOT in the list (and thus are not registered for 2022-2023) from de canvas course.
