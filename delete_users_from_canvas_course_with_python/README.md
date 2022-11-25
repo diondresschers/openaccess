@@ -8,7 +8,7 @@ This uses:
 
 * [Canvas LMS](https://www.instructure.com/canvas)
 * [CanvasAPI](https://canvasapi.readthedocs.io/en/stable/getting-started.html)
-* Jupyter (Notebook. [Project Jupyter | Home](https://jupyter.org/)
+* Jupyter Notebook. [Project Jupyter | Home](https://jupyter.org/)
 
 # Working
 
