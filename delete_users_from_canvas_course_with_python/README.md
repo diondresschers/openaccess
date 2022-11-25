@@ -15,7 +15,7 @@ This uses:
 
 In this code you can provide a list with studentnumbers, so they will be automatically removed from a Canvas Course.
 
-As and example you can remove al 2022-2023 registered students with a certain programme code from SAP (or from another resource). 
+As and example you can remove al 2022-2023 registered students with a certain programme code from SAP (or from another source). 
 
 Put all those student numbers into the Python list (in the called called `listOfStudents`).
 
