@@ -1,7 +1,7 @@
 * Date: 2022-11-25
 * License: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 * Author: Tim Visser of the Vrije Universiteit Amsterdam
-* Use at your own risk 
+* Use at your own risk :)
 * Version: 2022-11-25T09:57
 * Download here the newest version: https://edu.nl/yaggu
 
